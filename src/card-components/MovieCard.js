@@ -27,6 +27,8 @@ const posterMap = {
   'default': defaultPoster
 }
 
+
+
 export default class MovieCard extends Component {
 
   render() {
